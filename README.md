@@ -1,5 +1,5 @@
 I designed and implemented a ridge regression model with bayesian hyperparameter optimization from scratch. While ridge regression has a
-closed form solution, I made things interesting by using gradient descent instead.
+closed form solution, I challenged myself by using gradient descent instead.
 I used a kaggle notebook and the kaggle housing prices dataset as well as standard data preprocessing techniques to handle non numerical and missing data . 
 I am currently working on issues regarding numerical stability and afterwards will create a handout to explain my code and the mathematics behind it in detail.
 
