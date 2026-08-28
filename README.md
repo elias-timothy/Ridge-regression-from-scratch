@@ -1,6 +1,6 @@
  I designed and implemented a ridge regression model with bayesian optimization for learning rate and the regularization parameter. 
 This project was from scratch so I had to code the mathematics myself. I used a kaggle notebook and the  housing prices dataset for my 
-code, and used standard data preprocessing techniques to handle non numerical and missing data . I am currently working on issues regarding numerical stability and upon resolution I will produce a pdf to explain my code and the mathematics behind it in detai.
+code, and used standard data preprocessing techniques to handle non numerical and missing data . I am currently working on issues regarding numerical stability and upon resolution I will produce a pdf to explain my code and the mathematics behind it in detail.
 
 Notebook
 https://www.kaggle.com/code/eliasdguy/actuallinearreg
